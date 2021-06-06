@@ -1,0 +1,51 @@
+body{
+    background-image: url("math-background.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 50px !important;
+    color: whitesmoke !important;
+}
+.name-div{
+    margin-top: 100px ;
+    width: 500px ;
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px ;
+}
+#score-heading{
+    color: whitesmoke !important;
+}
+button{
+    margin-top: 20px !important;
+    width: 500px;
+    font-size: 20px !important;
+}
+#top{
+    justify-content: space-between;
+    display: flex;
+}
+#question-div{
+    width: 500px;
+    background-color: whitesmoke;
+    text-align: left;
+    padding: 20px;
+}
+#bottom{
+        height: 25vh;
+        position: fixed;
+        bottom: 50px;
+        left: 250px;
+        right: 250px;
+        background-color: whitesmoke;
+        padding: 10px;
+}
+#welcome{
+    color: whitesmoke !important;
+}
+h3{
+    color: whitesmoke !important;
+}
+
+
